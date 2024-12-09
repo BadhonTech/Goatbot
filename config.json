@@ -19,7 +19,7 @@
   "adminBot": [
     "100000768468627",
     "100030205562796",
-    "",
+    "100004819114915",
     "",
     "100082247235177"
   ],
@@ -40,7 +40,7 @@
   "authorName": "𝐗𝐍𝐈𝐋",
   "authorFB": "https://www.facebook.com/xnilxhowdhury143",
   "authorEmail": "xnilxhowdhury@gmail.com",
-  "prefix": "/",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
